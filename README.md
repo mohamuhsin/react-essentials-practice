@@ -6,4 +6,4 @@ Practicing and diving deep into React Core Concepts;
 - Props
 - State
 
-Practicing and diving deep into Reac
+Practicing and diving deep into Re
