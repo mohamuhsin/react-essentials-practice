@@ -15,4 +15,3 @@ Practicing and diving deep into React Core Concepts;
 Practicing and diving deep into React Core Concepts; 
 - Components
 - JSX
-- P
