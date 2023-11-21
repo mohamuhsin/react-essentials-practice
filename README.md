@@ -1,1 +1,1 @@
-# react-essentials-practice
+# React Essentials Practice
