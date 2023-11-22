@@ -13,6 +13,5 @@ Practicing and diving deep into React Core Concepts;
 - State
 
 Practicing and diving deep into React Core Concepts; 
-- Components
-
+- Componen
 
