@@ -18,4 +18,4 @@ Practicing and diving deep into React Core Concepts;
 - Props
 - State
 
-Practicing and divin
+Practicing and div
