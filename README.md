@@ -18,4 +18,4 @@ Practicing and diving deep into React Core Concepts;
 - Props
 - State
 
-Practicing and diving deep into React 
+Practicing and diving deep into Rea
